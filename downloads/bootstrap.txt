@@ -3,7 +3,7 @@
     {
       "hash": "C85E68770418255A7B46EF4D3D2F7EA654FE1976C991089390D898108EC250C1",
       "name": "Vykor.jar",
-      "path": "https://vykorrsps.github.io/Vykor.jar",
+      "path": "https://vykorrsps.github.io/downloads/Vykor.jar",
       "size": 6371401
     }
   ],
