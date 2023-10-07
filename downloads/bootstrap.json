@@ -1,0 +1,90 @@
+{
+  "artifacts": [
+    {
+      "hash": "C85E68770418255A7B46EF4D3D2F7EA654FE1976C991089390D898108EC250C1",
+      "name": "Vykor.jar",
+      "path": "https://vykorrsps.github.io/Vykor.jar",
+      "size": 6371401
+    }
+  ],
+  "client": {
+    "artifactId": "client",
+    "classifier": "shaded",
+    "extension": "jar",
+    "groupId": "net.runelite",
+    "properties": {},
+    "version": "1.5.22.1"
+  },
+  "clientJvm17Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+  ],
+  "clientJvm17MacArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
+    "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+  ],
+  "clientJvm9Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true"
+  ],
+  "clientJvmArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC",
+    "-Djna.nosys=true"
+  ],
+  "launcherArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC",
+    "-Djna.nosys=true"
+  ],
+  "launcherJvm11Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true"
+  ],
+  "launcherJvm17Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+  ],
+  "launcherJvm17MacArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
+    "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+  ]
+}
