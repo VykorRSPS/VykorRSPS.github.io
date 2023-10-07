@@ -8,7 +8,9 @@ layout: home
 <html>
 
 <body>
+	<p>
 	Here are all the download links for the Vykor Launcher.
+	</p>
 <p>
 	Windows 32-Bit: <a href="./downloads/VykorSetup32.exe">Download</a>
 	Windows 64-Bit: <a href="./downloads/VykorSetup32.exe">Download</a>
