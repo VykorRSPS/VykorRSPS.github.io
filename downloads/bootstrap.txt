@@ -1,7 +1,7 @@
 {
   "artifacts": [
     {
-      "hash": "b6704425e7845262227aad5d7466dc66831eaad7072724dcf11cd177c1936549",
+      "hash": "2e9ac62f061a8bf1835ffdc266bfb6ea02b33e4b9a6b3e76bfbd6bf996c44d93",
       "name": "Vykor.jar",
       "path": "https://vykorrsps.github.io/downloads/Vykor.jar",
       "size": 6398025
