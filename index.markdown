@@ -5,4 +5,10 @@
 layout: center
 ---
 
-This website will contain all the downloads links for Vykor.
+<html>
+
+<body style="vertical-align: center;">
+	Here are all the download links for the Vykor Launcher.
+</body>
+
+</html>
